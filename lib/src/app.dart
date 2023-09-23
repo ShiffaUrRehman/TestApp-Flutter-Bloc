@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import './ui/movies_list.dart';
 
 class App extends StatelessWidget {
   const App({super.key});
